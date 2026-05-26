@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(255, 196, 237);
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly ;
+  gap: 20px;
+}
+.card{
+  background-color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  padding: 20px; color :rgb(0, 0, 0);
+border-radius: 2cm;
+}
